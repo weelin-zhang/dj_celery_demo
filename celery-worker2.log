@@ -1,0 +1,614 @@
+[2017-11-16 07:12:11,642: INFO/MainProcess] Connected to redis://localhost:6379/0
+[2017-11-16 07:12:11,649: INFO/MainProcess] mingle: searching for neighbors
+[2017-11-16 07:12:12,671: INFO/MainProcess] mingle: sync with 1 nodes
+[2017-11-16 07:12:12,671: INFO/MainProcess] mingle: sync complete
+[2017-11-16 07:12:12,685: WARNING/MainProcess] /mydata/Envs/celery_django/lib/python2.7/site-packages/celery/fixups/django.py:202: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+[2017-11-16 07:12:12,685: INFO/MainProcess] celery@celery-worker2 ready.
+[2017-11-16 07:13:33,572: INFO/MainProcess] Received task: app.tasks.longtime_test[72b2b42a-48b8-4af2-af22-dc97a958b49a]  
+[2017-11-16 07:13:33,582: WARNING/ForkPoolWorker-4] 3
+[2017-11-16 07:13:33,647: INFO/MainProcess] Received task: app.tasks.longtime_test[a3d711f9-7493-4f91-b949-1f0a50adab10]  
+[2017-11-16 07:13:33,649: WARNING/ForkPoolWorker-6] 3
+[2017-11-16 07:13:33,690: INFO/MainProcess] Received task: app.tasks.longtime_test[b9e31868-620e-4f83-8299-6cd251b7e7f1]  
+[2017-11-16 07:13:33,692: WARNING/ForkPoolWorker-10] 3
+[2017-11-16 07:13:33,733: INFO/MainProcess] Received task: app.tasks.longtime_test[db6dbba7-8339-405a-a39b-a39ccc15c060]  
+[2017-11-16 07:13:33,735: WARNING/ForkPoolWorker-3] 3
+[2017-11-16 07:13:33,780: INFO/MainProcess] Received task: app.tasks.longtime_test[6f2d902d-9354-4847-a118-a789c8d34be2]  
+[2017-11-16 07:13:33,782: WARNING/ForkPoolWorker-7] 3
+[2017-11-16 07:13:33,819: INFO/MainProcess] Received task: app.tasks.longtime_test[3e9930c7-b045-4279-9265-85a60763872a]  
+[2017-11-16 07:13:33,821: WARNING/ForkPoolWorker-9] 3
+[2017-11-16 07:13:33,860: INFO/MainProcess] Received task: app.tasks.longtime_test[82c93786-b6ff-40c9-86f0-c6ae5493e501]  
+[2017-11-16 07:13:33,862: WARNING/ForkPoolWorker-8] 3
+[2017-11-16 07:13:33,902: INFO/MainProcess] Received task: app.tasks.longtime_test[738ce6ff-d18d-4f03-826c-120d7be7e266]  
+[2017-11-16 07:13:33,904: WARNING/ForkPoolWorker-1] 3
+[2017-11-16 07:13:33,939: INFO/MainProcess] Received task: app.tasks.longtime_test[4ef33749-32a1-4dea-b0ac-a7ced84a793a]  
+[2017-11-16 07:13:33,941: WARNING/ForkPoolWorker-5] 3
+[2017-11-16 07:13:33,981: INFO/MainProcess] Received task: app.tasks.longtime_test[dedb0b3c-8f03-41d0-bb73-cdf6fc04544d]  
+[2017-11-16 07:13:33,982: WARNING/ForkPoolWorker-2] 3
+[2017-11-16 07:13:34,019: INFO/MainProcess] Received task: app.tasks.longtime_test[82495362-4e0d-40b1-bda4-b8beb16d71cd]  
+[2017-11-16 07:13:34,057: INFO/MainProcess] Received task: app.tasks.longtime_test[091db6d9-3ed9-4bce-b8d4-1cf0f31cf8cc]  
+[2017-11-16 07:13:34,093: INFO/MainProcess] Received task: app.tasks.longtime_test[bc617dc7-aba4-4eb1-9e97-b73ec713ab41]  
+[2017-11-16 07:13:34,128: INFO/MainProcess] Received task: app.tasks.longtime_test[2abf017f-4612-4637-aaf1-ea5898906dd1]  
+[2017-11-16 07:13:34,162: INFO/MainProcess] Received task: app.tasks.longtime_test[e915f43b-9446-4ed3-95e7-76fcfcf84679]  
+[2017-11-16 07:13:34,196: INFO/MainProcess] Received task: app.tasks.longtime_test[0504bc51-d90e-42f5-adce-6cdd02aa04f7]  
+[2017-11-16 07:13:34,230: INFO/MainProcess] Received task: app.tasks.longtime_test[6cf1768c-b327-4a0f-81dc-de26cb347d62]  
+[2017-11-16 07:13:34,265: INFO/MainProcess] Received task: app.tasks.longtime_test[9429621f-2fa2-47cb-a7df-d9a1f51cc884]  
+[2017-11-16 07:13:34,309: INFO/MainProcess] Received task: app.tasks.longtime_test[bb405786-a4b4-4050-bb22-d803107b9607]  
+[2017-11-16 07:13:34,350: INFO/MainProcess] Received task: app.tasks.longtime_test[ff5d4664-7a2e-421e-b127-c6e3abfbf643]  
+[2017-11-16 07:13:34,391: INFO/MainProcess] Received task: app.tasks.longtime_test[2c1851e4-4d64-4139-9403-126bc967915e]  
+[2017-11-16 07:13:34,430: INFO/MainProcess] Received task: app.tasks.longtime_test[af04ce01-1b78-4cce-9b7b-adcbeac88d86]  
+[2017-11-16 07:13:34,471: INFO/MainProcess] Received task: app.tasks.longtime_test[8cb0e04a-605d-4df1-9d45-feb34e459a6b]  
+[2017-11-16 07:13:34,507: INFO/MainProcess] Received task: app.tasks.longtime_test[a1e14d19-1187-4790-a035-c52fb278eee1]  
+[2017-11-16 07:13:34,541: INFO/MainProcess] Received task: app.tasks.longtime_test[e39d24b6-f9a3-49de-9341-a0d6613aab19]  
+[2017-11-16 07:13:34,581: INFO/MainProcess] Received task: app.tasks.longtime_test[53993b1a-3fb1-4e10-9470-93d64ed7b0a3]  
+[2017-11-16 07:13:34,583: WARNING/ForkPoolWorker-4] 2
+[2017-11-16 07:13:34,624: INFO/MainProcess] Received task: app.tasks.longtime_test[a10df3d2-8076-4ddd-976a-8c6f7cbac404]  
+[2017-11-16 07:13:34,651: WARNING/ForkPoolWorker-6] 2
+[2017-11-16 07:13:34,660: INFO/MainProcess] Received task: app.tasks.longtime_test[0d1b2341-6c82-4631-800c-9fe41f11ce31]  
+[2017-11-16 07:13:34,693: WARNING/ForkPoolWorker-10] 2
+[2017-11-16 07:13:34,706: INFO/MainProcess] Received task: app.tasks.longtime_test[9c199d66-ff6a-4e0b-8f45-40dc994f615f]  
+[2017-11-16 07:13:34,736: WARNING/ForkPoolWorker-3] 2
+[2017-11-16 07:13:34,753: INFO/MainProcess] Received task: app.tasks.longtime_test[f1531e4e-ad5e-4fa2-b638-ce80a3a85756]  
+[2017-11-16 07:13:34,784: WARNING/ForkPoolWorker-7] 2
+[2017-11-16 07:13:34,792: INFO/MainProcess] Received task: app.tasks.longtime_test[179487ed-fa40-49e5-81de-b7dbd2f68b82]  
+[2017-11-16 07:13:34,824: WARNING/ForkPoolWorker-9] 2
+[2017-11-16 07:13:34,825: INFO/MainProcess] Received task: app.tasks.longtime_test[1b2989ee-55f5-4843-b34e-9f70570fe627]  
+[2017-11-16 07:13:34,861: INFO/MainProcess] Received task: app.tasks.longtime_test[7558679c-9d67-4f05-b82d-a703da96f674]  
+[2017-11-16 07:13:34,864: WARNING/ForkPoolWorker-8] 2
+[2017-11-16 07:13:34,900: INFO/MainProcess] Received task: app.tasks.longtime_test[aa0e6de2-4fcb-4c34-86fc-b61c09b7b184]  
+[2017-11-16 07:13:34,906: WARNING/ForkPoolWorker-1] 2
+[2017-11-16 07:13:34,936: INFO/MainProcess] Received task: app.tasks.longtime_test[088c98ff-2edc-482a-98eb-6e6f5f2cdbdf]  
+[2017-11-16 07:13:34,942: WARNING/ForkPoolWorker-5] 2
+[2017-11-16 07:13:34,971: INFO/MainProcess] Received task: app.tasks.longtime_test[8861077e-a5de-4f28-9137-585107e17fdd]  
+[2017-11-16 07:13:34,984: WARNING/ForkPoolWorker-2] 2
+[2017-11-16 07:13:35,006: INFO/MainProcess] Received task: app.tasks.longtime_test[dba3a5a8-c12c-44f8-a406-9cd1fbbc81c3]  
+[2017-11-16 07:13:35,043: INFO/MainProcess] Received task: app.tasks.longtime_test[0cb2604c-f628-42f4-b004-5800ef1ec896]  
+[2017-11-16 07:13:35,078: INFO/MainProcess] Received task: app.tasks.longtime_test[13c70479-42f5-4f46-86a3-7dd1159215f4]  
+[2017-11-16 07:13:35,113: INFO/MainProcess] Received task: app.tasks.longtime_test[95658670-954b-4c6b-9efd-cf1e5291496c]  
+[2017-11-16 07:13:35,154: INFO/MainProcess] Received task: app.tasks.longtime_test[44846530-4e34-4b83-bff6-22e8f91049cd]  
+[2017-11-16 07:13:35,192: INFO/MainProcess] Received task: app.tasks.longtime_test[22720e41-0c81-4b46-a9f6-394fc71c4c0b]  
+[2017-11-16 07:13:35,231: INFO/MainProcess] Received task: app.tasks.longtime_test[f99ee9a9-b6ab-4ec2-8342-1fe1901c6a85]  
+[2017-11-16 07:13:35,268: INFO/MainProcess] Received task: app.tasks.longtime_test[16f2505a-3d95-4ec6-9829-6acdf52f3607]  
+[2017-11-16 07:13:35,306: INFO/MainProcess] Received task: app.tasks.longtime_test[5610ff3e-4308-4902-b9d1-6ab0d4f7cda3]  
+[2017-11-16 07:13:35,344: INFO/MainProcess] Received task: app.tasks.longtime_test[fcc43727-3252-4d9d-8b5a-c5cb94cfeaea]  
+[2017-11-16 07:13:35,381: INFO/MainProcess] Received task: app.tasks.longtime_test[08f6f4bf-84ff-4286-b91c-a4147b48a1e5]  
+[2017-11-16 07:13:35,415: INFO/MainProcess] Received task: app.tasks.longtime_test[4112f6f1-5794-4525-8cb9-fcdb8a04975d]  
+[2017-11-16 07:13:35,447: INFO/MainProcess] Received task: app.tasks.longtime_test[7ac24b26-9692-4145-8b3d-6ec2d4b6ad35]  
+[2017-11-16 07:13:35,481: INFO/MainProcess] Received task: app.tasks.longtime_test[ff2c75a7-4e9e-4195-a6b6-eea2aa09846e]  
+[2017-11-16 07:13:35,584: WARNING/ForkPoolWorker-4] 1
+[2017-11-16 07:13:35,652: WARNING/ForkPoolWorker-6] 1
+[2017-11-16 07:13:35,694: WARNING/ForkPoolWorker-10] 1
+[2017-11-16 07:13:35,737: WARNING/ForkPoolWorker-3] 1
+[2017-11-16 07:13:35,785: WARNING/ForkPoolWorker-7] 1
+[2017-11-16 07:13:35,826: WARNING/ForkPoolWorker-9] 1
+[2017-11-16 07:13:35,865: WARNING/ForkPoolWorker-8] 1
+[2017-11-16 07:13:35,907: WARNING/ForkPoolWorker-1] 1
+[2017-11-16 07:13:35,943: WARNING/ForkPoolWorker-5] 1
+[2017-11-16 07:13:35,985: WARNING/ForkPoolWorker-2] 1
+[2017-11-16 07:13:36,586: WARNING/ForkPoolWorker-4] done
+[2017-11-16 07:13:36,606: INFO/ForkPoolWorker-4] Task app.tasks.longtime_test[72b2b42a-48b8-4af2-af22-dc97a958b49a] succeeded in 3.02474117884s: 'done'
+[2017-11-16 07:13:36,611: WARNING/ForkPoolWorker-4] 3
+[2017-11-16 07:13:36,653: WARNING/ForkPoolWorker-6] done
+[2017-11-16 07:13:36,670: INFO/ForkPoolWorker-6] Task app.tasks.longtime_test[a3d711f9-7493-4f91-b949-1f0a50adab10] succeeded in 3.02146108542s: 'done'
+[2017-11-16 07:13:36,673: INFO/MainProcess] Received task: app.tasks.longtime_test[aac297b6-20b6-4eaa-bd09-d831afcef74a]  
+[2017-11-16 07:13:36,673: WARNING/ForkPoolWorker-6] 3
+[2017-11-16 07:13:36,695: WARNING/ForkPoolWorker-10] done
+[2017-11-16 07:13:36,709: INFO/ForkPoolWorker-10] Task app.tasks.longtime_test[b9e31868-620e-4f83-8299-6cd251b7e7f1] succeeded in 3.01699636597s: 'done'
+[2017-11-16 07:13:36,712: INFO/MainProcess] Received task: app.tasks.longtime_test[5f592e60-a43c-44a2-ab4d-5cae137c2576]  
+[2017-11-16 07:13:36,713: WARNING/ForkPoolWorker-10] 3
+[2017-11-16 07:13:36,738: WARNING/ForkPoolWorker-3] done
+[2017-11-16 07:13:36,747: INFO/ForkPoolWorker-3] Task app.tasks.longtime_test[db6dbba7-8339-405a-a39b-a39ccc15c060] succeeded in 3.01241392316s: 'done'
+[2017-11-16 07:13:36,750: INFO/MainProcess] Received task: app.tasks.longtime_test[a89313c3-29d1-4505-b614-f89167aba291]  
+[2017-11-16 07:13:36,751: WARNING/ForkPoolWorker-3] 3
+[2017-11-16 07:13:36,786: WARNING/ForkPoolWorker-7] done
+[2017-11-16 07:13:36,796: INFO/MainProcess] Received task: app.tasks.longtime_test[c4251e4b-4b77-4232-9113-9fa0e115af3c]  
+[2017-11-16 07:13:36,804: INFO/ForkPoolWorker-7] Task app.tasks.longtime_test[6f2d902d-9354-4847-a118-a789c8d34be2] succeeded in 3.02244287729s: 'done'
+[2017-11-16 07:13:36,806: WARNING/ForkPoolWorker-7] 3
+[2017-11-16 07:13:36,827: WARNING/ForkPoolWorker-9] done
+[2017-11-16 07:13:36,836: INFO/ForkPoolWorker-9] Task app.tasks.longtime_test[3e9930c7-b045-4279-9265-85a60763872a] succeeded in 3.01558245486s: 'done'
+[2017-11-16 07:13:36,840: INFO/MainProcess] Received task: app.tasks.longtime_test[5369782e-f5ab-4f22-a6da-29ea282b9894]  
+[2017-11-16 07:13:36,841: WARNING/ForkPoolWorker-9] 3
+[2017-11-16 07:13:36,867: WARNING/ForkPoolWorker-8] done
+[2017-11-16 07:13:36,877: INFO/ForkPoolWorker-8] Task app.tasks.longtime_test[82c93786-b6ff-40c9-86f0-c6ae5493e501] succeeded in 3.0145378341s: 'done'
+[2017-11-16 07:13:36,879: INFO/MainProcess] Received task: app.tasks.longtime_test[23b6b864-dc49-454a-8ccf-c72dcff6e388]  
+[2017-11-16 07:13:36,880: WARNING/ForkPoolWorker-8] 3
+[2017-11-16 07:13:36,909: WARNING/ForkPoolWorker-1] done
+[2017-11-16 07:13:36,917: INFO/ForkPoolWorker-1] Task app.tasks.longtime_test[738ce6ff-d18d-4f03-826c-120d7be7e266] succeeded in 3.01297708089s: 'done'
+[2017-11-16 07:13:36,919: INFO/MainProcess] Received task: app.tasks.longtime_test[7e5af1eb-03a9-47d7-bcc9-1d6ee2e8bbda]  
+[2017-11-16 07:13:36,920: WARNING/ForkPoolWorker-1] 3
+[2017-11-16 07:13:36,944: WARNING/ForkPoolWorker-5] done
+[2017-11-16 07:13:36,952: INFO/ForkPoolWorker-5] Task app.tasks.longtime_test[4ef33749-32a1-4dea-b0ac-a7ced84a793a] succeeded in 3.01153691811s: 'done'
+[2017-11-16 07:13:36,955: INFO/MainProcess] Received task: app.tasks.longtime_test[566a456e-e6af-4d65-afbb-9a0ebd31e94b]  
+[2017-11-16 07:13:36,956: WARNING/ForkPoolWorker-5] 3
+[2017-11-16 07:13:36,986: WARNING/ForkPoolWorker-2] done
+[2017-11-16 07:13:36,994: INFO/ForkPoolWorker-2] Task app.tasks.longtime_test[dedb0b3c-8f03-41d0-bb73-cdf6fc04544d] succeeded in 3.01202352019s: 'done'
+[2017-11-16 07:13:36,997: INFO/MainProcess] Received task: app.tasks.longtime_test[f0461eb5-18dc-415a-b15f-65e7d5fa5add]  
+[2017-11-16 07:13:36,998: WARNING/ForkPoolWorker-2] 3
+[2017-11-16 07:13:37,612: WARNING/ForkPoolWorker-4] 2
+[2017-11-16 07:13:37,675: WARNING/ForkPoolWorker-6] 2
+[2017-11-16 07:13:37,694: INFO/MainProcess] Received task: app.tasks.longtime_test[769b6733-19d0-46a4-8c9b-547670d378d6]  
+[2017-11-16 07:13:37,715: WARNING/ForkPoolWorker-10] 2
+[2017-11-16 07:13:37,752: WARNING/ForkPoolWorker-3] 2
+[2017-11-16 07:13:37,808: WARNING/ForkPoolWorker-7] 2
+[2017-11-16 07:13:37,842: WARNING/ForkPoolWorker-9] 2
+[2017-11-16 07:13:37,881: WARNING/ForkPoolWorker-8] 2
+[2017-11-16 07:13:37,920: WARNING/ForkPoolWorker-1] 2
+[2017-11-16 07:13:37,957: WARNING/ForkPoolWorker-5] 2
+[2017-11-16 07:13:38,000: WARNING/ForkPoolWorker-2] 2
+[2017-11-16 07:13:38,614: WARNING/ForkPoolWorker-4] 1
+[2017-11-16 07:13:38,676: WARNING/ForkPoolWorker-6] 1
+[2017-11-16 07:13:38,716: WARNING/ForkPoolWorker-10] 1
+[2017-11-16 07:13:38,754: WARNING/ForkPoolWorker-3] 1
+[2017-11-16 07:13:38,814: WARNING/ForkPoolWorker-7] 1
+[2017-11-16 07:13:38,844: WARNING/ForkPoolWorker-9] 1
+[2017-11-16 07:13:38,883: WARNING/ForkPoolWorker-8] 1
+[2017-11-16 07:13:38,922: WARNING/ForkPoolWorker-1] 1
+[2017-11-16 07:13:38,958: WARNING/ForkPoolWorker-5] 1
+[2017-11-16 07:13:39,001: WARNING/ForkPoolWorker-2] 1
+[2017-11-16 07:13:39,615: WARNING/ForkPoolWorker-4] done
+[2017-11-16 07:13:39,620: INFO/ForkPoolWorker-4] Task app.tasks.longtime_test[82495362-4e0d-40b1-bda4-b8beb16d71cd] succeeded in 3.00954017369s: 'done'
+[2017-11-16 07:13:39,622: WARNING/ForkPoolWorker-4] 3
+[2017-11-16 07:13:39,677: WARNING/ForkPoolWorker-6] done
+[2017-11-16 07:13:39,686: INFO/ForkPoolWorker-6] Task app.tasks.longtime_test[091db6d9-3ed9-4bce-b8d4-1cf0f31cf8cc] succeeded in 3.01278079208s: 'done'
+[2017-11-16 07:13:39,688: WARNING/ForkPoolWorker-6] 3
+[2017-11-16 07:13:39,717: WARNING/ForkPoolWorker-10] done
+[2017-11-16 07:13:39,722: INFO/ForkPoolWorker-10] Task app.tasks.longtime_test[bc617dc7-aba4-4eb1-9e97-b73ec713ab41] succeeded in 3.00896741496s: 'done'
+[2017-11-16 07:13:39,724: WARNING/ForkPoolWorker-10] 3
+[2017-11-16 07:13:39,755: WARNING/ForkPoolWorker-3] done
+[2017-11-16 07:13:39,760: INFO/ForkPoolWorker-3] Task app.tasks.longtime_test[2abf017f-4612-4637-aaf1-ea5898906dd1] succeeded in 3.00915992912s: 'done'
+[2017-11-16 07:13:39,762: WARNING/ForkPoolWorker-3] 3
+[2017-11-16 07:13:39,816: WARNING/ForkPoolWorker-7] done
+[2017-11-16 07:13:39,838: INFO/ForkPoolWorker-7] Task app.tasks.longtime_test[e915f43b-9446-4ed3-95e7-76fcfcf84679] succeeded in 3.03210773272s: 'done'
+[2017-11-16 07:13:39,839: WARNING/ForkPoolWorker-7] 3
+[2017-11-16 07:13:39,845: WARNING/ForkPoolWorker-9] done
+[2017-11-16 07:13:39,851: INFO/ForkPoolWorker-9] Task app.tasks.longtime_test[0504bc51-d90e-42f5-adce-6cdd02aa04f7] succeeded in 3.00973886298s: 'done'
+[2017-11-16 07:13:39,852: WARNING/ForkPoolWorker-9] 3
+[2017-11-16 07:13:39,884: WARNING/ForkPoolWorker-8] done
+[2017-11-16 07:13:39,889: INFO/ForkPoolWorker-8] Task app.tasks.longtime_test[6cf1768c-b327-4a0f-81dc-de26cb347d62] succeeded in 3.00884835282s: 'done'
+[2017-11-16 07:13:39,891: WARNING/ForkPoolWorker-8] 3
+[2017-11-16 07:13:39,923: WARNING/ForkPoolWorker-1] done
+[2017-11-16 07:13:39,928: INFO/ForkPoolWorker-1] Task app.tasks.longtime_test[9429621f-2fa2-47cb-a7df-d9a1f51cc884] succeeded in 3.00802025618s: 'done'
+[2017-11-16 07:13:39,930: WARNING/ForkPoolWorker-1] 3
+[2017-11-16 07:13:39,959: WARNING/ForkPoolWorker-5] done
+[2017-11-16 07:13:39,963: INFO/ForkPoolWorker-5] Task app.tasks.longtime_test[bb405786-a4b4-4050-bb22-d803107b9607] succeeded in 3.00791174639s: 'done'
+[2017-11-16 07:13:39,965: WARNING/ForkPoolWorker-5] 3
+[2017-11-16 07:13:40,003: WARNING/ForkPoolWorker-2] done
+[2017-11-16 07:13:40,007: INFO/ForkPoolWorker-2] Task app.tasks.longtime_test[ff5d4664-7a2e-421e-b127-c6e3abfbf643] succeeded in 3.00929447403s: 'done'
+[2017-11-16 07:13:40,008: WARNING/ForkPoolWorker-2] 3
+[2017-11-16 07:13:40,623: WARNING/ForkPoolWorker-4] 2
+[2017-11-16 07:13:40,690: WARNING/ForkPoolWorker-6] 2
+[2017-11-16 07:13:40,725: WARNING/ForkPoolWorker-10] 2
+[2017-11-16 07:13:40,763: WARNING/ForkPoolWorker-3] 2
+[2017-11-16 07:13:40,841: WARNING/ForkPoolWorker-7] 2
+[2017-11-16 07:13:40,854: WARNING/ForkPoolWorker-9] 2
+[2017-11-16 07:13:40,892: WARNING/ForkPoolWorker-8] 2
+[2017-11-16 07:13:40,930: WARNING/ForkPoolWorker-1] 2
+[2017-11-16 07:13:40,966: WARNING/ForkPoolWorker-5] 2
+[2017-11-16 07:13:41,010: WARNING/ForkPoolWorker-2] 2
+[2017-11-16 07:13:41,624: WARNING/ForkPoolWorker-4] 1
+[2017-11-16 07:13:41,691: WARNING/ForkPoolWorker-6] 1
+[2017-11-16 07:13:41,727: WARNING/ForkPoolWorker-10] 1
+[2017-11-16 07:13:41,765: WARNING/ForkPoolWorker-3] 1
+[2017-11-16 07:13:41,842: WARNING/ForkPoolWorker-7] 1
+[2017-11-16 07:13:41,858: WARNING/ForkPoolWorker-9] 1
+[2017-11-16 07:13:41,894: WARNING/ForkPoolWorker-8] 1
+[2017-11-16 07:13:41,932: WARNING/ForkPoolWorker-1] 1
+[2017-11-16 07:13:41,968: WARNING/ForkPoolWorker-5] 1
+[2017-11-16 07:13:42,011: WARNING/ForkPoolWorker-2] 1
+[2017-11-16 07:13:42,626: WARNING/ForkPoolWorker-4] done
+[2017-11-16 07:13:42,632: INFO/ForkPoolWorker-4] Task app.tasks.longtime_test[2c1851e4-4d64-4139-9403-126bc967915e] succeeded in 3.01055235183s: 'done'
+[2017-11-16 07:13:42,634: WARNING/ForkPoolWorker-4] 3
+[2017-11-16 07:13:42,692: WARNING/ForkPoolWorker-6] done
+[2017-11-16 07:13:42,705: INFO/ForkPoolWorker-6] Task app.tasks.longtime_test[af04ce01-1b78-4cce-9b7b-adcbeac88d86] succeeded in 3.01640087785s: 'done'
+[2017-11-16 07:13:42,706: WARNING/ForkPoolWorker-6] 3
+[2017-11-16 07:13:42,728: WARNING/ForkPoolWorker-10] done
+[2017-11-16 07:13:42,732: INFO/ForkPoolWorker-10] Task app.tasks.longtime_test[8cb0e04a-605d-4df1-9d45-feb34e459a6b] succeeded in 3.00883068005s: 'done'
+[2017-11-16 07:13:42,734: WARNING/ForkPoolWorker-10] 3
+[2017-11-16 07:13:42,766: WARNING/ForkPoolWorker-3] done
+[2017-11-16 07:13:42,771: INFO/ForkPoolWorker-3] Task app.tasks.longtime_test[a1e14d19-1187-4790-a035-c52fb278eee1] succeeded in 3.0094896676s: 'done'
+[2017-11-16 07:13:42,773: WARNING/ForkPoolWorker-3] 3
+[2017-11-16 07:13:42,843: WARNING/ForkPoolWorker-7] done
+[2017-11-16 07:13:42,850: INFO/ForkPoolWorker-7] Task app.tasks.longtime_test[e39d24b6-f9a3-49de-9341-a0d6613aab19] succeeded in 3.01108022127s: 'done'
+[2017-11-16 07:13:42,852: WARNING/ForkPoolWorker-7] 3
+[2017-11-16 07:13:42,860: WARNING/ForkPoolWorker-9] done
+[2017-11-16 07:13:42,882: INFO/ForkPoolWorker-9] Task app.tasks.longtime_test[53993b1a-3fb1-4e10-9470-93d64ed7b0a3] succeeded in 3.02923786407s: 'done'
+[2017-11-16 07:13:42,883: WARNING/ForkPoolWorker-9] 3
+[2017-11-16 07:13:42,895: WARNING/ForkPoolWorker-8] done
+[2017-11-16 07:13:42,899: INFO/ForkPoolWorker-8] Task app.tasks.longtime_test[a10df3d2-8076-4ddd-976a-8c6f7cbac404] succeeded in 3.00815300085s: 'done'
+[2017-11-16 07:13:42,901: WARNING/ForkPoolWorker-8] 3
+[2017-11-16 07:13:42,933: WARNING/ForkPoolWorker-1] done
+[2017-11-16 07:13:42,937: INFO/ForkPoolWorker-1] Task app.tasks.longtime_test[0d1b2341-6c82-4631-800c-9fe41f11ce31] succeeded in 3.00780120073s: 'done'
+[2017-11-16 07:13:42,939: WARNING/ForkPoolWorker-1] 3
+[2017-11-16 07:13:42,969: WARNING/ForkPoolWorker-5] done
+[2017-11-16 07:13:42,974: INFO/ForkPoolWorker-5] Task app.tasks.longtime_test[9c199d66-ff6a-4e0b-8f45-40dc994f615f] succeeded in 3.0089794877s: 'done'
+[2017-11-16 07:13:42,976: WARNING/ForkPoolWorker-5] 3
+[2017-11-16 07:13:43,012: WARNING/ForkPoolWorker-2] done
+[2017-11-16 07:13:43,020: INFO/ForkPoolWorker-2] Task app.tasks.longtime_test[f1531e4e-ad5e-4fa2-b638-ce80a3a85756] succeeded in 3.01191534521s: 'done'
+[2017-11-16 07:13:43,022: WARNING/ForkPoolWorker-2] 3
+[2017-11-16 07:13:43,635: WARNING/ForkPoolWorker-4] 2
+[2017-11-16 07:13:43,707: WARNING/ForkPoolWorker-6] 2
+[2017-11-16 07:13:43,735: WARNING/ForkPoolWorker-10] 2
+[2017-11-16 07:13:43,774: WARNING/ForkPoolWorker-3] 2
+[2017-11-16 07:13:43,853: WARNING/ForkPoolWorker-7] 2
+[2017-11-16 07:13:43,884: WARNING/ForkPoolWorker-9] 2
+[2017-11-16 07:13:43,902: WARNING/ForkPoolWorker-8] 2
+[2017-11-16 07:13:43,941: WARNING/ForkPoolWorker-1] 2
+[2017-11-16 07:13:43,977: WARNING/ForkPoolWorker-5] 2
+[2017-11-16 07:13:44,023: WARNING/ForkPoolWorker-2] 2
+[2017-11-16 07:13:44,636: WARNING/ForkPoolWorker-4] 1
+[2017-11-16 07:13:44,709: WARNING/ForkPoolWorker-6] 1
+[2017-11-16 07:13:44,737: WARNING/ForkPoolWorker-10] 1
+[2017-11-16 07:13:44,776: WARNING/ForkPoolWorker-3] 1
+[2017-11-16 07:13:44,855: WARNING/ForkPoolWorker-7] 1
+[2017-11-16 07:13:44,885: WARNING/ForkPoolWorker-9] 1
+[2017-11-16 07:13:44,903: WARNING/ForkPoolWorker-8] 1
+[2017-11-16 07:13:44,942: WARNING/ForkPoolWorker-1] 1
+[2017-11-16 07:13:44,978: WARNING/ForkPoolWorker-5] 1
+[2017-11-16 07:13:45,025: WARNING/ForkPoolWorker-2] 1
+[2017-11-16 07:13:45,638: WARNING/ForkPoolWorker-4] done
+[2017-11-16 07:13:45,642: INFO/ForkPoolWorker-4] Task app.tasks.longtime_test[179487ed-fa40-49e5-81de-b7dbd2f68b82] succeeded in 3.00825079205s: 'done'
+[2017-11-16 07:13:45,644: WARNING/ForkPoolWorker-4] 3
+[2017-11-16 07:13:45,710: WARNING/ForkPoolWorker-6] done
+[2017-11-16 07:13:45,714: INFO/ForkPoolWorker-6] Task app.tasks.longtime_test[1b2989ee-55f5-4843-b34e-9f70570fe627] succeeded in 3.00761556905s: 'done'
+[2017-11-16 07:13:45,718: WARNING/ForkPoolWorker-6] 3
+[2017-11-16 07:13:45,738: WARNING/ForkPoolWorker-10] done
+[2017-11-16 07:13:45,742: INFO/ForkPoolWorker-10] Task app.tasks.longtime_test[7558679c-9d67-4f05-b82d-a703da96f674] succeeded in 3.008619559s: 'done'
+[2017-11-16 07:13:45,744: WARNING/ForkPoolWorker-10] 3
+[2017-11-16 07:13:45,777: WARNING/ForkPoolWorker-3] done
+[2017-11-16 07:13:45,782: INFO/ForkPoolWorker-3] Task app.tasks.longtime_test[aa0e6de2-4fcb-4c34-86fc-b61c09b7b184] succeeded in 3.00888574403s: 'done'
+[2017-11-16 07:13:45,784: WARNING/ForkPoolWorker-3] 3
+[2017-11-16 07:13:45,856: WARNING/ForkPoolWorker-7] done
+[2017-11-16 07:13:45,865: INFO/ForkPoolWorker-7] Task app.tasks.longtime_test[088c98ff-2edc-482a-98eb-6e6f5f2cdbdf] succeeded in 3.01288918685s: 'done'
+[2017-11-16 07:13:45,866: WARNING/ForkPoolWorker-7] 3
+[2017-11-16 07:13:45,887: WARNING/ForkPoolWorker-9] done
+[2017-11-16 07:13:45,891: INFO/ForkPoolWorker-9] Task app.tasks.longtime_test[8861077e-a5de-4f28-9137-585107e17fdd] succeeded in 3.0084592388s: 'done'
+[2017-11-16 07:13:45,894: WARNING/ForkPoolWorker-9] 3
+[2017-11-16 07:13:45,907: WARNING/ForkPoolWorker-8] done
+[2017-11-16 07:13:45,926: INFO/ForkPoolWorker-8] Task app.tasks.longtime_test[dba3a5a8-c12c-44f8-a406-9cd1fbbc81c3] succeeded in 3.02489369316s: 'done'
+[2017-11-16 07:13:45,928: WARNING/ForkPoolWorker-8] 3
+[2017-11-16 07:13:45,943: WARNING/ForkPoolWorker-1] done
+[2017-11-16 07:13:45,946: INFO/ForkPoolWorker-1] Task app.tasks.longtime_test[0cb2604c-f628-42f4-b004-5800ef1ec896] succeeded in 3.00722496677s: 'done'
+[2017-11-16 07:13:45,948: WARNING/ForkPoolWorker-1] 3
+[2017-11-16 07:13:45,979: WARNING/ForkPoolWorker-5] done
+[2017-11-16 07:13:45,983: INFO/ForkPoolWorker-5] Task app.tasks.longtime_test[13c70479-42f5-4f46-86a3-7dd1159215f4] succeeded in 3.00735008996s: 'done'
+[2017-11-16 07:13:45,984: WARNING/ForkPoolWorker-5] 3
+[2017-11-16 07:13:46,026: WARNING/ForkPoolWorker-2] done
+[2017-11-16 07:13:46,032: INFO/ForkPoolWorker-2] Task app.tasks.longtime_test[95658670-954b-4c6b-9efd-cf1e5291496c] succeeded in 3.00972059183s: 'done'
+[2017-11-16 07:13:46,034: WARNING/ForkPoolWorker-2] 3
+[2017-11-16 07:13:46,645: WARNING/ForkPoolWorker-4] 2
+[2017-11-16 07:13:46,719: WARNING/ForkPoolWorker-6] 2
+[2017-11-16 07:13:46,745: WARNING/ForkPoolWorker-10] 2
+[2017-11-16 07:13:46,785: WARNING/ForkPoolWorker-3] 2
+[2017-11-16 07:13:46,868: WARNING/ForkPoolWorker-7] 2
+[2017-11-16 07:13:46,895: WARNING/ForkPoolWorker-9] 2
+[2017-11-16 07:13:46,929: WARNING/ForkPoolWorker-8] 2
+[2017-11-16 07:13:46,949: WARNING/ForkPoolWorker-1] 2
+[2017-11-16 07:13:46,986: WARNING/ForkPoolWorker-5] 2
+[2017-11-16 07:13:47,035: WARNING/ForkPoolWorker-2] 2
+[2017-11-16 07:13:47,645: WARNING/ForkPoolWorker-4] 1
+[2017-11-16 07:13:47,720: WARNING/ForkPoolWorker-6] 1
+[2017-11-16 07:13:47,746: WARNING/ForkPoolWorker-10] 1
+[2017-11-16 07:13:47,786: WARNING/ForkPoolWorker-3] 1
+[2017-11-16 07:13:47,869: WARNING/ForkPoolWorker-7] 1
+[2017-11-16 07:13:47,897: WARNING/ForkPoolWorker-9] 1
+[2017-11-16 07:13:47,933: WARNING/ForkPoolWorker-8] 1
+[2017-11-16 07:13:47,950: WARNING/ForkPoolWorker-1] 1
+[2017-11-16 07:13:47,987: WARNING/ForkPoolWorker-5] 1
+[2017-11-16 07:13:48,037: WARNING/ForkPoolWorker-2] 1
+[2017-11-16 07:13:48,647: WARNING/ForkPoolWorker-4] done
+[2017-11-16 07:13:48,652: INFO/ForkPoolWorker-4] Task app.tasks.longtime_test[44846530-4e34-4b83-bff6-22e8f91049cd] succeeded in 3.00794041995s: 'done'
+[2017-11-16 07:13:48,654: WARNING/ForkPoolWorker-4] 3
+[2017-11-16 07:13:48,722: WARNING/ForkPoolWorker-6] done
+[2017-11-16 07:13:48,733: INFO/ForkPoolWorker-6] Task app.tasks.longtime_test[22720e41-0c81-4b46-a9f6-394fc71c4c0b] succeeded in 3.01542184222s: 'done'
+[2017-11-16 07:13:48,734: WARNING/ForkPoolWorker-6] 3
+[2017-11-16 07:13:48,747: WARNING/ForkPoolWorker-10] done
+[2017-11-16 07:13:48,752: INFO/ForkPoolWorker-10] Task app.tasks.longtime_test[f99ee9a9-b6ab-4ec2-8342-1fe1901c6a85] succeeded in 3.00831925683s: 'done'
+[2017-11-16 07:13:48,754: WARNING/ForkPoolWorker-10] 3
+[2017-11-16 07:13:48,788: WARNING/ForkPoolWorker-3] done
+[2017-11-16 07:13:48,793: INFO/ForkPoolWorker-3] Task app.tasks.longtime_test[16f2505a-3d95-4ec6-9829-6acdf52f3607] succeeded in 3.0098028942s: 'done'
+[2017-11-16 07:13:48,795: WARNING/ForkPoolWorker-3] 3
+[2017-11-16 07:13:48,871: WARNING/ForkPoolWorker-7] done
+[2017-11-16 07:13:48,879: INFO/ForkPoolWorker-7] Task app.tasks.longtime_test[5610ff3e-4308-4902-b9d1-6ab0d4f7cda3] succeeded in 3.01265616436s: 'done'
+[2017-11-16 07:13:48,880: WARNING/ForkPoolWorker-7] 3
+[2017-11-16 07:13:48,898: WARNING/ForkPoolWorker-9] done
+[2017-11-16 07:13:48,903: INFO/ForkPoolWorker-9] Task app.tasks.longtime_test[fcc43727-3252-4d9d-8b5a-c5cb94cfeaea] succeeded in 3.00896959286s: 'done'
+[2017-11-16 07:13:48,904: WARNING/ForkPoolWorker-9] 3
+[2017-11-16 07:13:48,937: WARNING/ForkPoolWorker-8] done
+[2017-11-16 07:13:48,951: WARNING/ForkPoolWorker-1] done
+[2017-11-16 07:13:48,953: INFO/ForkPoolWorker-8] Task app.tasks.longtime_test[08f6f4bf-84ff-4286-b91c-a4147b48a1e5] succeeded in 3.02546911873s: 'done'
+[2017-11-16 07:13:48,955: WARNING/ForkPoolWorker-8] 3
+[2017-11-16 07:13:48,964: INFO/ForkPoolWorker-1] Task app.tasks.longtime_test[4112f6f1-5794-4525-8cb9-fcdb8a04975d] succeeded in 3.01570964092s: 'done'
+[2017-11-16 07:13:48,965: WARNING/ForkPoolWorker-1] 3
+[2017-11-16 07:13:48,988: WARNING/ForkPoolWorker-5] done
+[2017-11-16 07:13:48,992: INFO/ForkPoolWorker-5] Task app.tasks.longtime_test[7ac24b26-9692-4145-8b3d-6ec2d4b6ad35] succeeded in 3.00803910987s: 'done'
+[2017-11-16 07:13:48,995: WARNING/ForkPoolWorker-5] 3
+[2017-11-16 07:13:49,038: WARNING/ForkPoolWorker-2] done
+[2017-11-16 07:13:49,044: INFO/ForkPoolWorker-2] Task app.tasks.longtime_test[ff2c75a7-4e9e-4195-a6b6-eea2aa09846e] succeeded in 3.00968252681s: 'done'
+[2017-11-16 07:13:49,045: WARNING/ForkPoolWorker-2] 3
+[2017-11-16 07:13:49,655: WARNING/ForkPoolWorker-4] 2
+[2017-11-16 07:13:49,736: WARNING/ForkPoolWorker-6] 2
+[2017-11-16 07:13:49,755: WARNING/ForkPoolWorker-10] 2
+[2017-11-16 07:13:49,796: WARNING/ForkPoolWorker-3] 2
+[2017-11-16 07:13:49,882: WARNING/ForkPoolWorker-7] 2
+[2017-11-16 07:13:49,905: WARNING/ForkPoolWorker-9] 2
+[2017-11-16 07:13:49,956: WARNING/ForkPoolWorker-8] 2
+[2017-11-16 07:13:49,966: WARNING/ForkPoolWorker-1] 2
+[2017-11-16 07:13:49,996: WARNING/ForkPoolWorker-5] 2
+[2017-11-16 07:13:50,047: WARNING/ForkPoolWorker-2] 2
+[2017-11-16 07:13:50,656: WARNING/ForkPoolWorker-4] 1
+[2017-11-16 07:13:50,737: WARNING/ForkPoolWorker-6] 1
+[2017-11-16 07:13:50,756: WARNING/ForkPoolWorker-10] 1
+[2017-11-16 07:13:50,797: WARNING/ForkPoolWorker-3] 1
+[2017-11-16 07:13:50,883: WARNING/ForkPoolWorker-7] 1
+[2017-11-16 07:13:50,906: WARNING/ForkPoolWorker-9] 1
+[2017-11-16 07:13:50,967: WARNING/ForkPoolWorker-8] 1
+[2017-11-16 07:13:50,968: WARNING/ForkPoolWorker-1] 1
+[2017-11-16 07:13:50,997: WARNING/ForkPoolWorker-5] 1
+[2017-11-16 07:13:51,048: WARNING/ForkPoolWorker-2] 1
+[2017-11-16 07:13:51,657: WARNING/ForkPoolWorker-4] done
+[2017-11-16 07:13:51,661: INFO/ForkPoolWorker-4] Task app.tasks.longtime_test[aac297b6-20b6-4eaa-bd09-d831afcef74a] succeeded in 3.00750519289s: 'done'
+[2017-11-16 07:13:51,738: WARNING/ForkPoolWorker-6] done
+[2017-11-16 07:13:51,746: INFO/ForkPoolWorker-6] Task app.tasks.longtime_test[5f592e60-a43c-44a2-ab4d-5cae137c2576] succeeded in 3.01152588287s: 'done'
+[2017-11-16 07:13:51,757: WARNING/ForkPoolWorker-10] done
+[2017-11-16 07:13:51,761: INFO/ForkPoolWorker-10] Task app.tasks.longtime_test[a89313c3-29d1-4505-b614-f89167aba291] succeeded in 3.00725637004s: 'done'
+[2017-11-16 07:13:51,798: WARNING/ForkPoolWorker-3] done
+[2017-11-16 07:13:51,803: INFO/ForkPoolWorker-3] Task app.tasks.longtime_test[c4251e4b-4b77-4232-9113-9fa0e115af3c] succeeded in 3.00762093998s: 'done'
+[2017-11-16 07:13:51,884: WARNING/ForkPoolWorker-7] done
+[2017-11-16 07:13:51,891: INFO/ForkPoolWorker-7] Task app.tasks.longtime_test[5369782e-f5ab-4f22-a6da-29ea282b9894] succeeded in 3.01080726786s: 'done'
+[2017-11-16 07:13:51,907: WARNING/ForkPoolWorker-9] done
+[2017-11-16 07:13:51,911: INFO/ForkPoolWorker-9] Task app.tasks.longtime_test[23b6b864-dc49-454a-8ccf-c72dcff6e388] succeeded in 3.00670673698s: 'done'
+[2017-11-16 07:13:51,968: WARNING/ForkPoolWorker-8] done
+[2017-11-16 07:13:51,973: WARNING/ForkPoolWorker-1] done
+[2017-11-16 07:13:51,991: INFO/ForkPoolWorker-8] Task app.tasks.longtime_test[7e5af1eb-03a9-47d7-bcc9-1d6ee2e8bbda] succeeded in 3.03626745893s: 'done'
+[2017-11-16 07:13:51,994: INFO/ForkPoolWorker-1] Task app.tasks.longtime_test[566a456e-e6af-4d65-afbb-9a0ebd31e94b] succeeded in 3.0290945787s: 'done'
+[2017-11-16 07:13:51,998: WARNING/ForkPoolWorker-5] done
+[2017-11-16 07:13:52,005: INFO/ForkPoolWorker-5] Task app.tasks.longtime_test[f0461eb5-18dc-415a-b15f-65e7d5fa5add] succeeded in 3.01021251688s: 'done'
+[2017-11-16 07:13:52,049: WARNING/ForkPoolWorker-2] done
+[2017-11-16 07:13:52,053: INFO/ForkPoolWorker-2] Task app.tasks.longtime_test[769b6733-19d0-46a4-8c9b-547670d378d6] succeeded in 3.00792126218s: 'done'
+[2017-11-16 07:17:00,041: INFO/MainProcess] sync with celery@celery-worker3
+[2017-11-16 07:17:10,174: INFO/MainProcess] Received task: app.tasks.longtime_test[18a9d39d-26b4-4464-933c-4391964fb02c]  
+[2017-11-16 07:17:10,274: INFO/MainProcess] Received task: app.tasks.longtime_test[a49301ee-72c4-487b-8348-ba3c8feef333]  
+[2017-11-16 07:17:10,293: WARNING/ForkPoolWorker-10] 3
+[2017-11-16 07:17:10,374: INFO/MainProcess] Received task: app.tasks.longtime_test[d5a084fe-5446-4b45-8995-4912da99bc13]  
+[2017-11-16 07:17:10,376: WARNING/ForkPoolWorker-7] 3
+[2017-11-16 07:17:10,452: INFO/MainProcess] Received task: app.tasks.longtime_test[453ccec9-ccd3-4f4e-ae60-a9e1a1d801dc]  
+[2017-11-16 07:17:10,509: WARNING/ForkPoolWorker-3] 3
+[2017-11-16 07:17:10,526: INFO/MainProcess] Received task: app.tasks.longtime_test[e2c6a4e5-07b5-4c3a-bde8-830018ddcc44]  
+[2017-11-16 07:17:10,541: WARNING/ForkPoolWorker-6] 3
+[2017-11-16 07:17:10,614: INFO/MainProcess] Received task: app.tasks.longtime_test[68eea149-0863-4c4c-8b11-161572f60c61]  
+[2017-11-16 07:17:10,619: WARNING/ForkPoolWorker-8] 3
+[2017-11-16 07:17:10,679: WARNING/ForkPoolWorker-4] 3
+[2017-11-16 07:17:10,701: INFO/MainProcess] Received task: app.tasks.longtime_test[4db76d35-a92d-45de-9eb9-1570da79a585]  
+[2017-11-16 07:17:10,773: INFO/MainProcess] Received task: app.tasks.longtime_test[4af2e2af-208d-4202-9fa4-a879f4bb4dfe]  
+[2017-11-16 07:17:10,840: INFO/MainProcess] Received task: app.tasks.longtime_test[1c690298-8ca4-49ed-b646-4ecbef5251b5]  
+[2017-11-16 07:17:10,842: WARNING/ForkPoolWorker-9] 3
+[2017-11-16 07:17:10,947: INFO/MainProcess] Received task: app.tasks.longtime_test[ebdd966f-1e3f-41d3-8488-4cb1e31a6251]  
+[2017-11-16 07:17:10,995: WARNING/ForkPoolWorker-1] 3
+[2017-11-16 07:17:11,041: INFO/MainProcess] Received task: app.tasks.longtime_test[df603fde-7f50-42b3-97b4-94afdc10be52]  
+[2017-11-16 07:17:11,136: INFO/MainProcess] Received task: app.tasks.longtime_test[f3f5274c-3465-476e-a432-8a09f9f41029]  
+[2017-11-16 07:17:11,160: WARNING/ForkPoolWorker-2] 3
+[2017-11-16 07:17:11,206: INFO/MainProcess] Received task: app.tasks.longtime_test[7f15623a-4aed-45cd-a15d-1f1f2605d685]  
+[2017-11-16 07:17:11,220: WARNING/ForkPoolWorker-5] 3
+[2017-11-16 07:17:11,291: INFO/MainProcess] Received task: app.tasks.longtime_test[d6bbf7e6-feaf-4ee5-8b9d-32dc55a848bc]  
+[2017-11-16 07:17:11,297: WARNING/ForkPoolWorker-10] 2
+[2017-11-16 07:17:11,381: WARNING/ForkPoolWorker-7] 2
+[2017-11-16 07:17:11,395: INFO/MainProcess] Received task: app.tasks.longtime_test[7b618566-24ef-4ae8-b0bf-c8dc605e7212]  
+[2017-11-16 07:17:11,466: INFO/MainProcess] Received task: app.tasks.longtime_test[27b8e014-0468-4ee3-b83e-3c5aed41179f]  
+[2017-11-16 07:17:11,521: WARNING/ForkPoolWorker-3] 2
+[2017-11-16 07:17:11,525: INFO/MainProcess] Received task: app.tasks.longtime_test[5ba3947f-16e4-4526-b1df-c124ed80a7da]  
+[2017-11-16 07:17:11,544: WARNING/ForkPoolWorker-6] 2
+[2017-11-16 07:17:11,582: INFO/MainProcess] Received task: app.tasks.longtime_test[ec34f4ac-fc7a-4cc5-be10-940d640a6284]  
+[2017-11-16 07:17:11,625: WARNING/ForkPoolWorker-8] 2
+[2017-11-16 07:17:11,690: WARNING/ForkPoolWorker-4] 2
+[2017-11-16 07:17:11,758: INFO/MainProcess] Received task: app.tasks.longtime_test[143b815e-baf6-4bc7-ad69-3880ced210a5]  
+[2017-11-16 07:17:11,827: INFO/MainProcess] Received task: app.tasks.longtime_test[375f8857-219c-4cae-ae91-065f3c5ab14a]  
+[2017-11-16 07:17:11,843: WARNING/ForkPoolWorker-9] 2
+[2017-11-16 07:17:11,890: INFO/MainProcess] Received task: app.tasks.longtime_test[b13d13ac-56c7-48c7-adab-3f8277ef98fa]  
+[2017-11-16 07:17:11,949: INFO/MainProcess] Received task: app.tasks.longtime_test[0e5b101b-72be-46cd-92fc-f335703f8800]  
+[2017-11-16 07:17:12,005: INFO/MainProcess] Received task: app.tasks.longtime_test[e750015c-f1fd-4e06-830b-f90825b08b24]  
+[2017-11-16 07:17:12,037: WARNING/ForkPoolWorker-1] 2
+[2017-11-16 07:17:12,073: INFO/MainProcess] Received task: app.tasks.longtime_test[c2073f55-68e3-4d46-8b5f-ede3ad9505db]  
+[2017-11-16 07:17:12,130: INFO/MainProcess] Received task: app.tasks.longtime_test[1c61e9be-d742-451d-9f6c-4622a7f749f2]  
+[2017-11-16 07:17:12,180: INFO/MainProcess] Received task: app.tasks.longtime_test[e30e6e59-0247-4e92-9ce9-4067eb704ba1]  
+[2017-11-16 07:17:12,182: WARNING/ForkPoolWorker-2] 2
+[2017-11-16 07:17:12,234: INFO/MainProcess] Received task: app.tasks.longtime_test[18451905-e327-44ef-a6d6-8c6114ebaa90]  
+[2017-11-16 07:17:12,253: WARNING/ForkPoolWorker-5] 2
+[2017-11-16 07:17:12,298: WARNING/ForkPoolWorker-10] 1
+[2017-11-16 07:17:12,303: INFO/MainProcess] Received task: app.tasks.longtime_test[fe4b0611-9eaf-4f6c-b2d6-cad618654d29]  
+[2017-11-16 07:17:12,362: INFO/MainProcess] Received task: app.tasks.longtime_test[412c33a7-ba48-4b2f-8f08-e5f400dad196]  
+[2017-11-16 07:17:12,383: WARNING/ForkPoolWorker-7] 1
+[2017-11-16 07:17:12,420: INFO/MainProcess] Received task: app.tasks.longtime_test[8607bb1b-574d-4c18-8160-824700cda4bc]  
+[2017-11-16 07:17:12,490: INFO/MainProcess] Received task: app.tasks.longtime_test[c90ee25f-6273-4d0a-aad3-7e3e3bcab17c]  
+[2017-11-16 07:17:12,524: WARNING/ForkPoolWorker-3] 1
+[2017-11-16 07:17:12,548: INFO/MainProcess] Received task: app.tasks.longtime_test[cf83b091-d645-43fe-80b4-2d5059cc0b01]  
+[2017-11-16 07:17:12,547: WARNING/ForkPoolWorker-6] 1
+[2017-11-16 07:17:12,603: INFO/MainProcess] Received task: app.tasks.longtime_test[d5edb3cb-144e-41d7-a3b9-843801ed9b61]  
+[2017-11-16 07:17:12,626: WARNING/ForkPoolWorker-8] 1
+[2017-11-16 07:17:12,660: INFO/MainProcess] Received task: app.tasks.longtime_test[bdb44512-d362-4f4e-a3e4-2d6e0cd2f8f1]  
+[2017-11-16 07:17:12,692: WARNING/ForkPoolWorker-4] 1
+[2017-11-16 07:17:12,730: INFO/MainProcess] Received task: app.tasks.longtime_test[95dfcafb-ec80-43b9-98ea-9b22cd0b2374]  
+[2017-11-16 07:17:12,796: INFO/MainProcess] Received task: app.tasks.longtime_test[26dcd684-c0c6-41ab-8e54-be4848e25666]  
+[2017-11-16 07:17:12,845: WARNING/ForkPoolWorker-9] 1
+[2017-11-16 07:17:12,894: INFO/MainProcess] Received task: app.tasks.longtime_test[0039d178-d9cb-4ee0-8fa9-8b48f62851da]  
+[2017-11-16 07:17:12,988: INFO/MainProcess] Received task: app.tasks.longtime_test[0f11d334-b4e0-4197-b7c1-e9ed053e9ddf]  
+[2017-11-16 07:17:13,037: INFO/MainProcess] Received task: app.tasks.longtime_test[50e79cb0-3d15-46d3-9a42-4143239068fd]  
+[2017-11-16 07:17:13,039: WARNING/ForkPoolWorker-1] 1
+[2017-11-16 07:17:13,098: INFO/MainProcess] Received task: app.tasks.longtime_test[a2525b04-0f93-47fa-8ff6-515d3c4c3b6d]  
+[2017-11-16 07:17:13,161: INFO/MainProcess] Received task: app.tasks.longtime_test[3fb09313-88fe-4cd3-bbaa-36fdfa627bd8]  
+[2017-11-16 07:17:13,184: WARNING/ForkPoolWorker-2] 1
+[2017-11-16 07:17:13,264: WARNING/ForkPoolWorker-5] 1
+[2017-11-16 07:17:13,300: WARNING/ForkPoolWorker-10] done
+[2017-11-16 07:17:13,384: WARNING/ForkPoolWorker-7] done
+[2017-11-16 07:17:13,408: INFO/ForkPoolWorker-10] Task app.tasks.longtime_test[18a9d39d-26b4-4464-933c-4391964fb02c] succeeded in 3.14655453525s: 'done'
+[2017-11-16 07:17:13,415: WARNING/ForkPoolWorker-10] 3
+[2017-11-16 07:17:13,523: INFO/ForkPoolWorker-7] Task app.tasks.longtime_test[d5a084fe-5446-4b45-8995-4912da99bc13] succeeded in 3.14693841292s: 'done'
+[2017-11-16 07:17:13,525: WARNING/ForkPoolWorker-3] done
+[2017-11-16 07:17:13,535: WARNING/ForkPoolWorker-7] 3
+[2017-11-16 07:17:13,550: WARNING/ForkPoolWorker-6] done
+[2017-11-16 07:17:13,624: INFO/ForkPoolWorker-3] Task app.tasks.longtime_test[a49301ee-72c4-487b-8348-ba3c8feef333] succeeded in 3.19978126185s: 'done'
+[2017-11-16 07:17:13,628: WARNING/ForkPoolWorker-8] done
+[2017-11-16 07:17:13,630: WARNING/ForkPoolWorker-3] 3
+[2017-11-16 07:17:13,665: INFO/ForkPoolWorker-6] Task app.tasks.longtime_test[e2c6a4e5-07b5-4c3a-bde8-830018ddcc44] succeeded in 3.12984882016s: 'done'
+[2017-11-16 07:17:13,693: WARNING/ForkPoolWorker-4] done
+[2017-11-16 07:17:13,703: WARNING/ForkPoolWorker-6] 3
+[2017-11-16 07:17:13,846: WARNING/ForkPoolWorker-9] done
+[2017-11-16 07:17:13,861: INFO/ForkPoolWorker-9] Task app.tasks.longtime_test[1c690298-8ca4-49ed-b646-4ecbef5251b5] succeeded in 3.0191652081s: 'done'
+[2017-11-16 07:17:13,863: WARNING/ForkPoolWorker-9] 3
+[2017-11-16 07:17:13,865: INFO/ForkPoolWorker-8] Task app.tasks.longtime_test[68eea149-0863-4c4c-8b11-161572f60c61] succeeded in 3.24582683714s: 'done'
+[2017-11-16 07:17:13,870: WARNING/ForkPoolWorker-8] 3
+[2017-11-16 07:17:14,042: WARNING/ForkPoolWorker-1] done
+[2017-11-16 07:17:14,185: WARNING/ForkPoolWorker-2] done
+[2017-11-16 07:17:14,265: WARNING/ForkPoolWorker-5] done
+[2017-11-16 07:17:14,380: INFO/ForkPoolWorker-4] Task app.tasks.longtime_test[453ccec9-ccd3-4f4e-ae60-a9e1a1d801dc] succeeded in 3.77272580983s: 'done'
+[2017-11-16 07:17:14,388: WARNING/ForkPoolWorker-4] 3
+[2017-11-16 07:17:14,416: WARNING/ForkPoolWorker-10] 2
+[2017-11-16 07:17:14,501: INFO/ForkPoolWorker-1] Task app.tasks.longtime_test[4db76d35-a92d-45de-9eb9-1570da79a585] succeeded in 3.63350311713s: 'done'
+[2017-11-16 07:17:14,511: WARNING/ForkPoolWorker-1] 3
+[2017-11-16 07:17:14,527: INFO/ForkPoolWorker-2] Task app.tasks.longtime_test[4af2e2af-208d-4202-9fa4-a879f4bb4dfe] succeeded in 3.51298788516s: 'done'
+[2017-11-16 07:17:14,529: INFO/ForkPoolWorker-5] Task app.tasks.longtime_test[ebdd966f-1e3f-41d3-8488-4cb1e31a6251] succeeded in 3.38627641508s: 'done'
+[2017-11-16 07:17:14,535: WARNING/ForkPoolWorker-7] 2
+[2017-11-16 07:17:14,538: WARNING/ForkPoolWorker-2] 3
+[2017-11-16 07:17:14,537: WARNING/ForkPoolWorker-5] 3
+[2017-11-16 07:17:14,636: WARNING/ForkPoolWorker-3] 2
+[2017-11-16 07:17:14,707: WARNING/ForkPoolWorker-6] 2
+[2017-11-16 07:17:14,869: WARNING/ForkPoolWorker-9] 2
+[2017-11-16 07:17:14,872: WARNING/ForkPoolWorker-8] 2
+[2017-11-16 07:17:15,389: WARNING/ForkPoolWorker-4] 2
+[2017-11-16 07:17:15,417: WARNING/ForkPoolWorker-10] 1
+[2017-11-16 07:17:15,512: WARNING/ForkPoolWorker-1] 2
+[2017-11-16 07:17:15,536: WARNING/ForkPoolWorker-7] 1
+[2017-11-16 07:17:15,539: WARNING/ForkPoolWorker-2] 2
+[2017-11-16 07:17:15,540: WARNING/ForkPoolWorker-5] 2
+[2017-11-16 07:17:15,637: WARNING/ForkPoolWorker-3] 1
+[2017-11-16 07:17:15,708: WARNING/ForkPoolWorker-6] 1
+[2017-11-16 07:17:15,870: WARNING/ForkPoolWorker-9] 1
+[2017-11-16 07:17:15,874: WARNING/ForkPoolWorker-8] 1
+[2017-11-16 07:17:16,390: WARNING/ForkPoolWorker-4] 1
+[2017-11-16 07:17:16,418: WARNING/ForkPoolWorker-10] done
+[2017-11-16 07:17:16,435: INFO/ForkPoolWorker-10] Task app.tasks.longtime_test[df603fde-7f50-42b3-97b4-94afdc10be52] succeeded in 3.02062636567s: 'done'
+[2017-11-16 07:17:16,440: WARNING/ForkPoolWorker-10] 3
+[2017-11-16 07:17:16,513: WARNING/ForkPoolWorker-1] 1
+[2017-11-16 07:17:16,537: WARNING/ForkPoolWorker-7] done
+[2017-11-16 07:17:16,540: WARNING/ForkPoolWorker-2] 1
+[2017-11-16 07:17:16,542: WARNING/ForkPoolWorker-5] 1
+[2017-11-16 07:17:16,553: INFO/ForkPoolWorker-7] Task app.tasks.longtime_test[f3f5274c-3465-476e-a432-8a09f9f41029] succeeded in 3.01884490438s: 'done'
+[2017-11-16 07:17:16,570: WARNING/ForkPoolWorker-7] 3
+[2017-11-16 07:17:16,640: WARNING/ForkPoolWorker-3] done
+[2017-11-16 07:17:16,654: INFO/ForkPoolWorker-3] Task app.tasks.longtime_test[7f15623a-4aed-45cd-a15d-1f1f2605d685] succeeded in 3.02427214896s: 'done'
+[2017-11-16 07:17:16,657: WARNING/ForkPoolWorker-3] 3
+[2017-11-16 07:17:16,709: WARNING/ForkPoolWorker-6] done
+[2017-11-16 07:17:16,726: INFO/ForkPoolWorker-6] Task app.tasks.longtime_test[d6bbf7e6-feaf-4ee5-8b9d-32dc55a848bc] succeeded in 3.02277689241s: 'done'
+[2017-11-16 07:17:16,729: WARNING/ForkPoolWorker-6] 3
+[2017-11-16 07:17:16,871: WARNING/ForkPoolWorker-9] done
+[2017-11-16 07:17:16,875: WARNING/ForkPoolWorker-8] done
+[2017-11-16 07:17:16,884: INFO/ForkPoolWorker-8] Task app.tasks.longtime_test[27b8e014-0468-4ee3-b83e-3c5aed41179f] succeeded in 3.01450569415s: 'done'
+[2017-11-16 07:17:16,887: WARNING/ForkPoolWorker-8] 3
+[2017-11-16 07:17:16,889: INFO/ForkPoolWorker-9] Task app.tasks.longtime_test[7b618566-24ef-4ae8-b0bf-c8dc605e7212] succeeded in 3.02559472714s: 'done'
+[2017-11-16 07:17:16,891: WARNING/ForkPoolWorker-9] 3
+[2017-11-16 07:17:17,393: WARNING/ForkPoolWorker-4] done
+[2017-11-16 07:17:17,405: INFO/ForkPoolWorker-4] Task app.tasks.longtime_test[5ba3947f-16e4-4526-b1df-c124ed80a7da] succeeded in 3.01667704759s: 'done'
+[2017-11-16 07:17:17,411: WARNING/ForkPoolWorker-4] 3
+[2017-11-16 07:17:17,442: WARNING/ForkPoolWorker-10] 2
+[2017-11-16 07:17:17,515: WARNING/ForkPoolWorker-1] done
+[2017-11-16 07:17:17,544: WARNING/ForkPoolWorker-5] done
+[2017-11-16 07:17:17,542: WARNING/ForkPoolWorker-2] done
+[2017-11-16 07:17:17,540: INFO/ForkPoolWorker-1] Task app.tasks.longtime_test[ec34f4ac-fc7a-4cc5-be10-940d640a6284] succeeded in 3.02922821511s: 'done'
+[2017-11-16 07:17:17,549: WARNING/ForkPoolWorker-1] 3
+[2017-11-16 07:17:17,561: INFO/ForkPoolWorker-5] Task app.tasks.longtime_test[143b815e-baf6-4bc7-ad69-3880ced210a5] succeeded in 3.02389244596s: 'done'
+[2017-11-16 07:17:17,564: WARNING/ForkPoolWorker-5] 3
+[2017-11-16 07:17:17,568: INFO/ForkPoolWorker-2] Task app.tasks.longtime_test[375f8857-219c-4cae-ae91-065f3c5ab14a] succeeded in 3.03043584898s: 'done'
+[2017-11-16 07:17:17,572: WARNING/ForkPoolWorker-2] 3
+[2017-11-16 07:17:17,573: WARNING/ForkPoolWorker-7] 2
+[2017-11-16 07:17:17,658: WARNING/ForkPoolWorker-3] 2
+[2017-11-16 07:17:17,730: WARNING/ForkPoolWorker-6] 2
+[2017-11-16 07:17:17,889: WARNING/ForkPoolWorker-8] 2
+[2017-11-16 07:17:17,892: WARNING/ForkPoolWorker-9] 2
+[2017-11-16 07:17:18,412: WARNING/ForkPoolWorker-4] 2
+[2017-11-16 07:17:18,444: WARNING/ForkPoolWorker-10] 1
+[2017-11-16 07:17:18,553: WARNING/ForkPoolWorker-1] 2
+[2017-11-16 07:17:18,568: WARNING/ForkPoolWorker-5] 2
+[2017-11-16 07:17:18,573: WARNING/ForkPoolWorker-2] 2
+[2017-11-16 07:17:18,575: WARNING/ForkPoolWorker-7] 1
+[2017-11-16 07:17:18,660: WARNING/ForkPoolWorker-3] 1
+[2017-11-16 07:17:18,731: WARNING/ForkPoolWorker-6] 1
+[2017-11-16 07:17:18,891: WARNING/ForkPoolWorker-8] 1
+[2017-11-16 07:17:18,896: WARNING/ForkPoolWorker-9] 1
+[2017-11-16 07:17:19,414: WARNING/ForkPoolWorker-4] 1
+[2017-11-16 07:17:19,445: WARNING/ForkPoolWorker-10] done
+[2017-11-16 07:17:19,456: INFO/ForkPoolWorker-10] Task app.tasks.longtime_test[b13d13ac-56c7-48c7-adab-3f8277ef98fa] succeeded in 3.01626570104s: 'done'
+[2017-11-16 07:17:19,462: WARNING/ForkPoolWorker-10] 3
+[2017-11-16 07:17:19,555: WARNING/ForkPoolWorker-1] 1
+[2017-11-16 07:17:19,569: WARNING/ForkPoolWorker-5] 1
+[2017-11-16 07:17:19,575: WARNING/ForkPoolWorker-2] 1
+[2017-11-16 07:17:19,577: WARNING/ForkPoolWorker-7] done
+[2017-11-16 07:17:19,589: INFO/ForkPoolWorker-7] Task app.tasks.longtime_test[0e5b101b-72be-46cd-92fc-f335703f8800] succeeded in 3.02207868779s: 'done'
+[2017-11-16 07:17:19,592: WARNING/ForkPoolWorker-7] 3
+[2017-11-16 07:17:19,662: WARNING/ForkPoolWorker-3] done
+[2017-11-16 07:17:19,715: INFO/ForkPoolWorker-3] Task app.tasks.longtime_test[e750015c-f1fd-4e06-830b-f90825b08b24] succeeded in 3.05801007012s: 'done'
+[2017-11-16 07:17:19,720: WARNING/ForkPoolWorker-3] 3
+[2017-11-16 07:17:19,733: WARNING/ForkPoolWorker-6] done
+[2017-11-16 07:17:19,755: INFO/ForkPoolWorker-6] Task app.tasks.longtime_test[c2073f55-68e3-4d46-8b5f-ede3ad9505db] succeeded in 3.02606622875s: 'done'
+[2017-11-16 07:17:19,757: WARNING/ForkPoolWorker-6] 3
+[2017-11-16 07:17:19,892: WARNING/ForkPoolWorker-8] done
+[2017-11-16 07:17:19,898: WARNING/ForkPoolWorker-9] done
+[2017-11-16 07:17:19,907: INFO/ForkPoolWorker-8] Task app.tasks.longtime_test[1c61e9be-d742-451d-9f6c-4622a7f749f2] succeeded in 3.02085609874s: 'done'
+[2017-11-16 07:17:19,910: INFO/ForkPoolWorker-9] Task app.tasks.longtime_test[e30e6e59-0247-4e92-9ce9-4067eb704ba1] succeeded in 3.01920586498s: 'done'
+[2017-11-16 07:17:19,911: WARNING/ForkPoolWorker-8] 3
+[2017-11-16 07:17:19,913: WARNING/ForkPoolWorker-9] 3
+[2017-11-16 07:17:20,416: WARNING/ForkPoolWorker-4] done
+[2017-11-16 07:17:20,439: INFO/ForkPoolWorker-4] Task app.tasks.longtime_test[18451905-e327-44ef-a6d6-8c6114ebaa90] succeeded in 3.02863265807s: 'done'
+[2017-11-16 07:17:20,441: WARNING/ForkPoolWorker-4] 3
+[2017-11-16 07:17:20,471: WARNING/ForkPoolWorker-10] 2
+[2017-11-16 07:17:20,557: WARNING/ForkPoolWorker-1] done
+[2017-11-16 07:17:20,568: INFO/ForkPoolWorker-1] Task app.tasks.longtime_test[fe4b0611-9eaf-4f6c-b2d6-cad618654d29] succeeded in 3.01883057412s: 'done'
+[2017-11-16 07:17:20,570: WARNING/ForkPoolWorker-5] done
+[2017-11-16 07:17:20,577: WARNING/ForkPoolWorker-2] done
+[2017-11-16 07:17:20,579: WARNING/ForkPoolWorker-1] 3
+[2017-11-16 07:17:20,592: INFO/ForkPoolWorker-5] Task app.tasks.longtime_test[412c33a7-ba48-4b2f-8f08-e5f400dad196] succeeded in 3.02802177798s: 'done'
+[2017-11-16 07:17:20,593: WARNING/ForkPoolWorker-7] 2
+[2017-11-16 07:17:20,595: WARNING/ForkPoolWorker-5] 3
+[2017-11-16 07:17:20,596: INFO/ForkPoolWorker-2] Task app.tasks.longtime_test[8607bb1b-574d-4c18-8160-824700cda4bc] succeeded in 3.02477668878s: 'done'
+[2017-11-16 07:17:20,603: WARNING/ForkPoolWorker-2] 3
+[2017-11-16 07:17:20,721: WARNING/ForkPoolWorker-3] 2
+[2017-11-16 07:17:20,760: WARNING/ForkPoolWorker-6] 2
+[2017-11-16 07:17:20,914: WARNING/ForkPoolWorker-8] 2
+[2017-11-16 07:17:20,915: WARNING/ForkPoolWorker-9] 2
+[2017-11-16 07:17:21,443: WARNING/ForkPoolWorker-4] 2
+[2017-11-16 07:17:21,477: WARNING/ForkPoolWorker-10] 1
+[2017-11-16 07:17:21,580: WARNING/ForkPoolWorker-1] 2
+[2017-11-16 07:17:21,595: WARNING/ForkPoolWorker-7] 1
+[2017-11-16 07:17:21,596: WARNING/ForkPoolWorker-5] 2
+[2017-11-16 07:17:21,605: WARNING/ForkPoolWorker-2] 2
+[2017-11-16 07:17:21,723: WARNING/ForkPoolWorker-3] 1
+[2017-11-16 07:17:21,761: WARNING/ForkPoolWorker-6] 1
+[2017-11-16 07:17:21,916: WARNING/ForkPoolWorker-8] 1
+[2017-11-16 07:17:21,916: WARNING/ForkPoolWorker-9] 1
+[2017-11-16 07:17:22,444: WARNING/ForkPoolWorker-4] 1
+[2017-11-16 07:17:22,478: WARNING/ForkPoolWorker-10] done
+[2017-11-16 07:17:22,515: INFO/ForkPoolWorker-10] Task app.tasks.longtime_test[c90ee25f-6273-4d0a-aad3-7e3e3bcab17c] succeeded in 3.05349799106s: 'done'
+[2017-11-16 07:17:22,524: WARNING/ForkPoolWorker-10] 3
+[2017-11-16 07:17:22,581: WARNING/ForkPoolWorker-1] 1
+[2017-11-16 07:17:22,597: WARNING/ForkPoolWorker-7] done
+[2017-11-16 07:17:22,598: WARNING/ForkPoolWorker-5] 1
+[2017-11-16 07:17:22,606: WARNING/ForkPoolWorker-2] 1
+[2017-11-16 07:17:22,609: INFO/ForkPoolWorker-7] Task app.tasks.longtime_test[cf83b091-d645-43fe-80b4-2d5059cc0b01] succeeded in 3.01721393131s: 'done'
+[2017-11-16 07:17:22,724: WARNING/ForkPoolWorker-3] done
+[2017-11-16 07:17:22,741: INFO/ForkPoolWorker-3] Task app.tasks.longtime_test[d5edb3cb-144e-41d7-a3b9-843801ed9b61] succeeded in 3.02109976904s: 'done'
+[2017-11-16 07:17:22,763: WARNING/ForkPoolWorker-6] done
+[2017-11-16 07:17:22,771: INFO/ForkPoolWorker-6] Task app.tasks.longtime_test[bdb44512-d362-4f4e-a3e4-2d6e0cd2f8f1] succeeded in 3.0142837069s: 'done'
+[2017-11-16 07:17:22,917: WARNING/ForkPoolWorker-8] done
+[2017-11-16 07:17:22,918: WARNING/ForkPoolWorker-9] done
+[2017-11-16 07:17:22,931: INFO/ForkPoolWorker-9] Task app.tasks.longtime_test[26dcd684-c0c6-41ab-8e54-be4848e25666] succeeded in 3.01781766722s: 'done'
+[2017-11-16 07:17:22,931: INFO/ForkPoolWorker-8] Task app.tasks.longtime_test[95dfcafb-ec80-43b9-98ea-9b22cd0b2374] succeeded in 3.01988958986s: 'done'
+[2017-11-16 07:17:23,446: WARNING/ForkPoolWorker-4] done
+[2017-11-16 07:17:23,482: INFO/ForkPoolWorker-4] Task app.tasks.longtime_test[0039d178-d9cb-4ee0-8fa9-8b48f62851da] succeeded in 3.04090608424s: 'done'
+[2017-11-16 07:17:23,525: WARNING/ForkPoolWorker-10] 2
+[2017-11-16 07:17:23,584: WARNING/ForkPoolWorker-1] done
+[2017-11-16 07:17:23,599: INFO/ForkPoolWorker-1] Task app.tasks.longtime_test[0f11d334-b4e0-4197-b7c1-e9ed053e9ddf] succeeded in 3.02030360792s: 'done'
+[2017-11-16 07:17:23,600: WARNING/ForkPoolWorker-5] done
+[2017-11-16 07:17:23,607: WARNING/ForkPoolWorker-2] done
+[2017-11-16 07:17:23,610: INFO/ForkPoolWorker-5] Task app.tasks.longtime_test[50e79cb0-3d15-46d3-9a42-4143239068fd] succeeded in 3.01517402288s: 'done'
+[2017-11-16 07:17:23,619: INFO/ForkPoolWorker-2] Task app.tasks.longtime_test[a2525b04-0f93-47fa-8ff6-515d3c4c3b6d] succeeded in 3.01614878792s: 'done'
+[2017-11-16 07:17:24,527: WARNING/ForkPoolWorker-10] 1
+[2017-11-16 07:17:25,528: WARNING/ForkPoolWorker-10] done
+[2017-11-16 07:17:25,543: INFO/ForkPoolWorker-10] Task app.tasks.longtime_test[3fb09313-88fe-4cd3-bbaa-36fdfa627bd8] succeeded in 3.01909217425s: 'done'
